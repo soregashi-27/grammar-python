@@ -25,3 +25,12 @@ bool01 = (a < b)
 
 print(bool01)
 print(type(bool01))
+
+myName = "Tomo"
+age = 27
+isGood = True
+unittest = 1
+
+myName + str(age)
+type(myName)
+print(myName)
